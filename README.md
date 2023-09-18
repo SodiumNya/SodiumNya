@@ -1,16 +1,14 @@
-### Hi there 👋
+<a href="#">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=SodiumNya&show_icons=true&inc">
+</a>
+你好，我是SodiumNya
 
-<!--
-**sodiumnya/SodiumNya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+目前就读WYUAS，喜欢吃好吃的，研究有意思的东西。
 
-Here are some ideas to get you started:
+爱摸鱼，代码很烂，正在争取把脑子变聪明些
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://img.shields.io/badge/-Kotlin-orange?style=flat-square&logo=Kotlin&logoColor=fff)
+![](https://img.shields.io/badge/-Java-ab7221?style=flat-square&logo=Java&logoColor=fff)
+![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
+
+![这是访问量计数，如果看不到请刷新](https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=SodiumNya.SodiumNya.readme)
