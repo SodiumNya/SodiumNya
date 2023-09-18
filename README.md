@@ -15,4 +15,5 @@
 ![](https://img.shields.io/badge/-c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/-go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
 
-![这是访问量计数，如果看不到请刷新](https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=SodiumNya.SodiumNya.readme)
+![这是访问量计数，如果看不到请刷新](https://komarev.com/ghpvc/?username=SodiumNya)
+
