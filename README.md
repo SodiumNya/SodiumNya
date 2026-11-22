@@ -1,6 +1,8 @@
+
 <a href="#">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=SodiumNya&show_icons=true&inc">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=SodiumNya&show_icons=true&custom_title=SodiumNya%27s%20GitHub%20Stats">
 </a>
+
 你好，我是SodiumNya
 
 喜欢喝茶，研究有意思的东西。
